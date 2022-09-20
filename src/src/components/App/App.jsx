@@ -1,4 +1,4 @@
-import Product from '../Product'
+import Product from '../Product/Product'
 
 function App() {
   return (
