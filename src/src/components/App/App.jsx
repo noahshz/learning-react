@@ -1,10 +1,9 @@
-import Product from '../Product/Product'
+import ProductList from '../ProductList/ProductList';
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello World</h1>
-      <Product/>
+      <ProductList/>
     </div>
   );
 }
