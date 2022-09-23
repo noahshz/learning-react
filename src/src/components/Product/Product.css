@@ -1,0 +1,11 @@
+.product {
+    background-color: rgb(161, 220, 243);
+    margin: 1.2em;
+    padding: 0.5em;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.product > h1 {
+    font-weight: 600;
+}
