@@ -2,4 +2,4 @@
 
 https://www.youtube.com/watch?v=zJxJerQtUdk&ab_channel=CodingCrashkurse
 
-18:01
+40:16

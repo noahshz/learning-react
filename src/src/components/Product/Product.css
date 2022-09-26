@@ -10,3 +10,6 @@
 .product > h1 {
     font-weight: 600;
 }
+.product:hover {
+    cursor: pointer;
+}
